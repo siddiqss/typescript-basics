@@ -1,0 +1,19 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "TypeScript concepts and syntax",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddiqss/typescript-basics.git"
+  },
+  "author": "Talha Siddique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddiqss/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/siddiqss/typescript-basics#readme"
+}
